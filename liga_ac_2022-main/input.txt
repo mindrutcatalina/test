@@ -1,0 +1,19 @@
+7
+1 Mihai Merion
+2 George Sungarden
+100 Maria Applebrook
+13 Elena Applebrook
+5 Andrei Sungarden
+77 Sergiu Sungarden
+99 Cristina Applebrook
+10
+80 77
+99 100
+60 77
+88 100
+71 77
+61 1
+68 2
+95 13
+63 5
+90 99
